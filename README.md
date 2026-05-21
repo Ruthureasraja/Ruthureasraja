@@ -1,85 +1,85 @@
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║          GITHUB PROFILE README — RUTHUREASWARAN R               ║ -->
-<!-- ║   Edit anything inside <!-- EDIT: ... --> comments              ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║        GITHUB PROFILE README — RUTHUREASWARAN R                     ║ -->
+<!-- ║        Edit sections marked with  <!-- EDIT: -->  comments          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<!-- ══════════════════════════════════════════════
+<!-- ════════════════════════════════════════════════════
      HEADER BANNER
-     EDIT: Change text= and desc= values in the URL
-     Color options: https://capsule-render.vercel.app
-     ══════════════════════════════════════════════ -->
+     EDIT: Change text= and desc= values to update title
+     More styles → https://capsule-render.vercel.app
+     ════════════════════════════════════════════════════ -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Ruthureaswaran%20R&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20ML%20Developer%20%7C%20Google%20Student%20Ambassador&descSize=17&descAlignY=56&descColor=b0c4de&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a1a2e,80:16213e,100:0f3460&height=230&section=header&text=Ruthureaswaran%20R&fontSize=54&fontColor=e0e0e0&fontAlignY=36&fontAlign=50&desc=Software%20Engineer%20%7C%20ML%20Developer%20%7C%20Problem%20Solver&descSize=18&descAlignY=56&descColor=90caf9&animation=fadeIn)
 
-<!-- ══════════════════════════════════════════════
+<!-- ════════════════════════════════════════════════════
      ANIMATED TYPING INTRO
-     EDIT: Change the lines[] array items in the URL
-     ══════════════════════════════════════════════ -->
+     EDIT: Modify the lines[] values in the URL below
+     ════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=7EB8F7&center=true&vCenter=true&width=750&lines=🧠+Machine+Learning+%7C+Python+%7C+Data+Science;🌐+Building+ML-powered+Web+Apps+with+Streamlit;📊+Turning+Raw+Data+into+Real-World+Insights;🌟+Google+Student+Ambassador+%40+Kongu+Engineering+College;🚀+Aspiring+Software+Engineer+%7C+Open+to+Internships)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- ══════════════════════════════════════════════
-     SOCIAL BADGES
-     EDIT: Replace LinkedIn/GitHub URLs with yours
-     ══════════════════════════════════════════════ -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruthureaswaran06/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruthureasraja)
-[![Gmail](https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajaruthureas@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=90CAF9&center=true&vCenter=true&width=780&lines=🤖+Machine+Learning+%7C+Python+%7C+Data+Science;🗄️+DBMS+%7C+SQL+%7C+Relational+Database+Design;⚡+Competitive+Programming+%7C+Problem+Solving;🌟+Google+Student+Ambassador+%40+KEC;🚀+Open+to+Internships+%26+Full-Time+Roles)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Visitor Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Ruthureasraja&style=for-the-badge&color=302b63&label=PROFILE+VIEWS&abbreviated=true)
-![GitHub followers](https://img.shields.io/github/followers/Ruthureasraja?style=for-the-badge&logo=github&color=181717)
+<!-- ════════════════════════════════════════════════════
+     SOCIAL BADGES — EDIT: Replace URLs if any change
+     ════════════════════════════════════════════════════ -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruthureaswaran06/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ruthureasraja/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruthureasraja)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajaruthureas@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ruthureasraja&style=for-the-badge&color=0f3460&label=PROFILE+VIEWS&abbreviated=true)
+![GitHub followers](https://img.shields.io/github/followers/Ruthureasraja?style=for-the-badge&logo=github&color=1a1a2e&label=FOLLOWERS)
 
 </div>
 
-<br/>
-
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
+<img align="right" width="185" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
 
 ```yaml
 Name       : Ruthureaswaran R
 Role       : Aspiring Software Engineer & ML Developer
 College    : Kongu Engineering College, Erode
-Degree     : B.E – Computer Science & Design (2023–2027)
-CGPA       : 8.08 / 10
+Degree     : B.E — Computer Science & Design (2023–2027)
+CGPA       : 8.08  (up to 5th Semester)
 Location   : Tamil Nadu, India
-Ambassador : Google Student Developer | Jan 2025 – Present
-Status     : Actively seeking Internships & Placements 🎯
+Ambassador : Google Student Ambassador  |  Sep 2025 – Present
+Available  : Internships · Placements · Open-Source Contributions
 ```
-
-### What drives me:
-- 🤖 **Machine Learning** — Building predictive models that solve real problems
-- 🌐 **Full-Stack Dev** — Python-powered apps from backend logic to polished UIs
-- 📊 **Data Science** — Extracting insights through analysis & visualization
-- 🏗️ **DBMS & SQL** — Designing robust, query-optimized relational databases
-- 🌱 Currently exploring **Deep Learning** and **Cloud Deployment**
 
 <br clear="right"/>
 
+- 🤖 Passionate about **Machine Learning** — building models that solve real industry problems
+- 🗄️ Strong in **DBMS & SQL** — relational design, query optimisation, and data integrity
+- ⚡ Active **problem solver** on LeetCode — consistently practising DSA
+- 🌐 Building **full-stack Python apps** — from backend logic to interactive Streamlit UIs
+- 🌱 Currently deepening expertise in **Deep Learning** and **Cloud Deployment**
+- 🏆 **3× Prize Winner** in technical competitions at college and national level
+
 ---
 
-## 🏆 Achievements at a Glance
+## 🎓 Education
 
 <div align="center">
 
-| 🥇 Achievement | 🏛️ Organization | 📅 Year |
-|:---|:---|:---:|
-| 🥇 First Prize — IDEATHON | CSD Association, KEC | 2024 |
-| 🥇 First Prize — Department Coding Contest | Kongu Engineering College | 2024 |
-| 🏅 Finalist — RBI QUIZ90 Competition | Reserve Bank of India | 2024 |
-| 🌟 Google Student Developer Ambassador | Google Developer Groups | Jan 2025 – Present |
+```
+╔══════════════════════════════════════════════════════════════════╗
+║   🎓  B.E — Computer Science & Design                           ║
+║   🏛️  Kongu Engineering College, Erode, Tamil Nadu              ║
+║   📅  2023 – 2027                                               ║
+║   📊  CGPA : 8.08 / 10  (up to 5th Semester)                   ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<!-- EDIT: Add 10th / 12th rows here if needed for placement forms -->
 
 </div>
 
@@ -90,23 +90,23 @@ Status     : Actively seeking Internships & Placements 🎯
 ### 🐍 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" title="Python — Primary Language"/>
+  <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" title="Python"/>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java" title="Java — OOP & Oracle Cloud"/>
+  <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java" title="Java"/>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C" title="C — Systems & Algorithms"/>
+  <img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C" title="C"/>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" title="JavaScript — Web Interactivity"/>
+  <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" title="JavaScript"/>
 </p>
 
 ---
 
-### 🤖 Machine Learning & AI
+### 🤖 Machine Learning & Data Science
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sklearn" width="50" height="50" alt="Scikit-Learn" title="Scikit-Learn — ML Models"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" width="50" height="50" alt="Scikit-Learn" title="Scikit-Learn"/>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" alt="TensorFlow" title="TensorFlow — Deep Learning"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" alt="TensorFlow" title="TensorFlow"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="50" alt="Pandas"/>
   &nbsp;
@@ -117,8 +117,21 @@ Status     : Actively seeking Internships & Placements 🎯
   <img src="https://img.shields.io/badge/Joblib-FF6F00?style=flat-square&logo=python&logoColor=white" height="50" alt="Joblib"/>
 </p>
 
-**ML Skills:**
-`Supervised Learning` · `Regression & Classification` · `Feature Engineering` · `Model Evaluation` · `Hyperparameter Tuning` · `Data Preprocessing` · `Data Visualization` · `Predictive Analytics`
+**Core ML Competencies:**
+`Supervised Learning` · `Regression & Classification` · `Feature Engineering` · `Model Evaluation (R², MAE, RMSE)` · `Hyperparameter Tuning` · `Data Preprocessing` · `Exploratory Data Analysis` · `Predictive Analytics`
+
+---
+
+### 🗄️ Database & SQL
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL" title="MySQL"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" height="50" alt="Oracle Cloud"/>
+</p>
+
+**DBMS Competencies:**
+`Relational Database Design` · `SQL Queries & Joins` · `CRUD Operations` · `Database Normalisation` · `MySQL Connector (Python)` · `Stored Procedures` · `Entity-Relationship Modelling`
 
 ---
 
@@ -129,40 +142,51 @@ Status     : Actively seeking Internships & Placements 🎯
   &nbsp;
   <img src="https://img.shields.io/badge/Tkinter-3670A0?style=flat-square&logo=python&logoColor=white" height="50" alt="Tkinter"/>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" title="CSS3"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" height="50" alt="JSON"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3" title="CSS3"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Pillow-3670A0?style=flat-square&logo=python&logoColor=white" height="50" alt="Pillow"/>
 </p>
 
 ---
 
-### 🗄️ Database & DevTools
+### ⚙️ Tools & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL" title="MySQL — RDBMS & SQL Queries"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" title="Git"/>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" title="Git — Version Control"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" title="GitHub — Collaboration"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" height="50" alt="Oracle Cloud"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" title="GitHub"/>
   &nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" title="VS Code"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" height="50" alt="Jupyter"/>
 </p>
 
-**DBMS Skills:**
-`Relational Database Design` · `SQL Queries & Joins` · `CRUD Operations` · `Database Normalization` · `MySQL Connector (Python)` · `Stored Procedures`
+---
+
+## ⚡ Problem Solving & Competitive Programming
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Ruthureasraja-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ruthureasraja/)
+
+<!-- EDIT: Update the numbers below as you solve more problems -->
+
+| 🟢 Easy | 🟡 Medium | 🔴 Hard | 🗂️ Topics Covered |
+|:---:|:---:|:---:|:---|
+| ✔️ Solving | ✔️ Solving | 🔄 In Progress | Arrays · Strings · HashMap · Recursion · DP |
+
+</div>
+
+> 💡 **Focus areas:** Data Structures & Algorithms — Arrays, Strings, HashMaps, Recursion, Dynamic Programming
 
 ---
 
 ## 🚀 Featured Projects
 
-<!-- ══════════════════════════════════════════════
-     PROJECTS — EDIT repo links after pushing to GitHub
-     Replace # with actual repository URLs
-     ══════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════
+     EDIT: Replace # in View Repo links with actual URLs
+     after pushing repositories to GitHub
+     ════════════════════════════════════════════════════ -->
 
 <table>
 <tr>
@@ -173,16 +197,16 @@ Status     : Actively seeking Internships & Placements 🎯
 [![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](#)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](#)
 
-An end-to-end **ML-powered web application** that predicts employee performance in real time.
+End-to-end **ML web application** predicting employee performance scores in real time through an interactive Streamlit dashboard.
 
-**Key highlights:**
-- Full ML pipeline: data cleaning → feature engineering → model training
-- Deployed as an interactive **Streamlit dashboard**
-- Supports live input for instant predictions
+**Highlights:**
+- Full pipeline: data cleaning → feature engineering → model training → deployment
+- Interactive UI with live prediction on user input
+- Optimised for accuracy using cross-validation
 
 **Stack:** `Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Streamlit`
 
-[![View Repository](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruthureasraja)
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruthureasraja)
 
 </td>
 <td width="50%" valign="top">
@@ -192,16 +216,16 @@ An end-to-end **ML-powered web application** that predicts employee performance 
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)](#)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](#)
 
-A **data-driven salary estimation system** using regression models for HR decision-making.
+**Data-driven salary estimation system** using regression models — built for HR analytics and compensation benchmarking.
 
-**Key highlights:**
-- In-depth EDA with salary distribution visualizations
+**Highlights:**
+- In-depth EDA with salary distribution visualisations
 - Feature selection & model evaluation (R², MAE, RMSE)
-- Deployed via Streamlit with downloadable prediction reports
+- Streamlit dashboard with downloadable prediction results
 
 **Stack:** `Python` · `Pandas` · `Matplotlib` · `Scikit-learn` · `Joblib` · `Streamlit`
 
-[![View Repository](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruthureasraja)
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruthureasraja)
 
 </td>
 </tr>
@@ -213,83 +237,56 @@ A **data-driven salary estimation system** using regression models for HR decisi
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
 [![Tkinter](https://img.shields.io/badge/Tkinter-3670A0?style=flat-square&logo=python&logoColor=white)](#)
 
-A **full-featured desktop application** to digitize and manage farmer records efficiently.
+**Full-featured desktop application** that digitises farmer record management — built with a Python GUI and a normalised relational database backend.
 
-**Key highlights:**
-- Complete **CRUD system** with relational MySQL database backend
-- Structured UI built with **Python Tkinter** (Python GUI framework)
-- Optimized SQL queries, DB normalization, and image handling via Pillow
-- MySQL Connector integration for seamless DB connectivity
+**Highlights:**
+- Complete **CRUD system** with structured MySQL relational database
+- Optimised SQL queries, ER-modelled schema, and DB normalisation
+- Image handling for farmer profiles via Pillow; seamless DB connectivity via MySQL Connector
+- Clean Tkinter UI with form validation and dynamic record retrieval
 
 **Stack:** `Python` · `Tkinter` · `MySQL` · `Pillow` · `MySQL Connector`
 
-[![View Repository](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruthureasraja)
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruthureasraja)
 
 </td>
 </tr>
 </table>
 
-<!-- ══════════════════════════════════════════════
-     EDIT: Add more projects as you build them
-     Copy one of the table cells above and paste
-     ══════════════════════════════════════════════ -->
+<!-- EDIT: Add more projects here as you build them — copy a table cell above -->
 
 ---
 
-## 📜 Certifications
-
-<!-- ══════════════════════════════════════════════
-     EDIT: Add certification names, issuer, year
-     Add Credly/LinkedIn badge links if available
-     ══════════════════════════════════════════════ -->
+## 🏆 Achievements
 
 <div align="center">
 
-| 🏅 Certification | 🏛️ Issuer | 🔗 Credential |
-|:---|:---|:---:|
-| ☁️ Oracle Cloud Infrastructure — Java Foundations | Oracle | [View](#) <!-- EDIT: Add certificate link --> |
-| <!-- Add Certification Name --> | <!-- Add Issuer --> | [View](#) |
-| <!-- Add Certification Name --> | <!-- Add Issuer --> | [View](#) |
-
-</div>
-
-> 💡 **Tip:** Upload your certificates to [Credly](https://credly.com) or [LinkedIn Certifications](https://linkedin.com) and replace `#` links above.
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│   🎓  B.E – Computer Science & Design                                  │
-│   🏛️  Kongu Engineering College, Erode, Tamil Nadu                     │
-│   📅  2023 – 2027  (Currently in 2nd Year)                            │
-│   📊  CGPA: 8.08 / 10                                                  │
-└────────────────────────────────────────────────────────────────────────┘
-```
-
-<!-- ══════════════════════════════════════════════
-     EDIT: Add 10th and 12th details if needed
-     ══════════════════════════════════════════════ -->
+| 🏅 | Achievement | Organisation | Year |
+|:---:|:---|:---|:---:|
+| 🥇 | **First Prize** — CSE Department Coding Contest | Kongu Engineering College | 2024 |
+| 🥇 | **First Prize** — IDEATHON | CSD Association, KEC | 2024 |
+| 🏅 | **Finalist** — RBI QUIZ90 National Competition | Reserve Bank of India | 2024 |
 
 </div>
 
 ---
 
-## 🌟 Leadership & Campus Experience
+## 🌟 Leadership & Position of Responsibility
 
 <div align="center">
 
 ```
-🌟 Google Student Developer Ambassador
-   Kongu Engineering College | Jan 2025 – Present
-
-   ▸ Led campus-wide technical workshops on Google technologies
-   ▸ Mentored peers in software development best practices
-   ▸ Organized coding events and developer community sessions
-   ▸ Promoted Google Cloud and developer tools across campus
+╔═══════════════════════════════════════════════════════════════════════╗
+║   🌟  Google Student Ambassador                                       ║
+║   🏛️  Kongu Engineering College  |  Sep 2025 – Present               ║
+║                                                                       ║
+║   ▸ Organise and lead campus-wide technical workshops on Google       ║
+║     technologies including Google Cloud and developer tools           ║
+║   ▸ Mentor peers in software development, open-source contribution,  ║
+║     and industry-ready coding practices                               ║
+║   ▸ Drive student developer community engagement and participation    ║
+║     in coding events, hackathons, and tech sessions                   ║
+╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -298,67 +295,73 @@ A **full-featured desktop application** to digitize and manage farmer records ef
 
 ## 📊 GitHub Statistics
 
-<!-- ══════════════════════════════════════════════
-     GITHUB STATS — Replace "Ruthureasraja" with
-     your exact GitHub username everywhere below
-     ══════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════
+     EDIT: Replace "Ruthureasraja" with your GitHub
+     username in ALL stat card URLs below if it changes
+     ════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ruthureasraja&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,discussions_started,prs_merged" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ruthureasraja&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="48%" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruthureasraja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html" width="48%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruthureasraja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ruthureasraja&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EB8F7&fire=FF6B6B&currStreakLabel=7EB8F7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ruthureasraja&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ruthureasraja&theme=tokyo-night&hide_border=true&area=true&area_color=302b63)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ruthureasraja&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Ruthureasraja&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Ruthureasraja&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📬 Let's Connect
+## 📬 Connect With Me
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="200">
-  <a href="mailto:rajaruthureas@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/><br/>
-    <sub><b>rajaruthureas@gmail.com</b></sub>
-  </a>
-</td>
-<td align="center" width="200">
+<td align="center">
   <a href="https://www.linkedin.com/in/ruthureaswaran06/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/><br/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/><br/>
     <sub><b>ruthureaswaran06</b></sub>
   </a>
 </td>
-<td align="center" width="200">
-  <a href="https://github.com/Ruthureasraja">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/><br/>
+<td align="center">
+  <a href="https://leetcode.com/u/Ruthureasraja/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/><br/>
     <sub><b>Ruthureasraja</b></sub>
   </a>
 </td>
-<td align="center" width="200">
+<td align="center">
+  <a href="https://github.com/Ruthureasraja">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><br/>
+    <sub><b>Ruthureasraja</b></sub>
+  </a>
+</td>
+<td align="center">
+  <a href="mailto:rajaruthureas@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/><br/>
+    <sub><b>rajaruthureas@gmail.com</b></sub>
+  </a>
+</td>
+<td align="center">
   <a href="tel:+919789564381">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/><br/>
-    <sub><b>+91 9789564381</b></sub>
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><br/>
+    <sub><b>+91 97895 64381</b></sub>
   </a>
 </td>
 </tr>
@@ -370,17 +373,14 @@ A **full-featured desktop application** to digitize and manage farmer records ef
 
 <div align="center">
 
-### 💬 My Philosophy
-
-*"Data is not information, information is not knowledge — but code bridges all three."*
+*"First, solve the problem. Then, write the code."*
 
 <br/>
 
-**⭐ Star my repositories if you find them useful — it really motivates me to build more! ⭐**
+**⭐ If my work helps you, consider starring the repository — it means a lot! ⭐**
 
 <br/>
 
-<!-- Footer Wave -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,40:302b63,100:0f0c29&height=130&section=footer&fontColor=ffffff)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,40:16213e,80:1a1a2e,100:0a0a0a&height=120&section=footer)
 
 </div>
