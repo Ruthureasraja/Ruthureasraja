@@ -50,7 +50,7 @@ Role       : Aspiring Software Engineer & ML Developer
 College    : Kongu Engineering College, Erode
 Degree     : B.E — Computer Science & Design (2023–2027)
 CGPA       : 8.08  (up to 5th Semester)
-Location   : Tamil Nadu, India
+Location   : Erode, Tamil Nadu, India
 Ambassador : Google Student Ambassador  |  Sep 2025 – Present
 Available  : Internships · Placements · Open-Source Contributions
 ```
