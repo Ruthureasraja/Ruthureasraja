@@ -51,7 +51,7 @@ College    : Kongu Engineering College, Erode
 Degree     : B.E — Computer Science & Design (2023–2027)
 CGPA       : 8.17  (up to 6th Semester)
 Location   : Erode, Tamil Nadu, India
-Ambassador : Google Student Ambassador  |  Sep 2025 – Present
+Ambassador : Google Student Ambassador  |  Sep 2025 – Feb 2026
 Available  : Internships · Placements · Open-Source Contributions
 ```
 
@@ -75,7 +75,7 @@ Available  : Internships · Placements · Open-Source Contributions
 ║   🎓  B.E — Computer Science & Design                           ║
 ║   🏛️  Kongu Engineering College, Erode, Tamil Nadu              ║
 ║   📅  2023 – 2027                                               ║
-║   📊  CGPA : 8.08 / 10  (up to 5th Semester)                   ║
+║   📊  CGPA : 8.17 / 10  (up to 6th Semester)                   ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
